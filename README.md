@@ -1,26 +1,4 @@
 <div id="hello_world" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDY2OTg2NmE4Mjc3NDczMTg2OThmY2Y2MzNmOTVkZTYxNzZhYWIwMSZjdD1n/7p2yHUziv0Z0knH7YY/giphy.gif"/>
 </div>
-## Hi <div id="hello_world" >
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU3Zjk0NTBlNDRmZDEzZjY0YTRkNWE4ZGYyYmQ5NmE0YzQ4MWJhNyZjdD1z/BixlM2CB5BJBN3YQVJ/giphy.gif"/>
-</div>, I'm Ouadah Abdelkader
-
-
-
-<!--
-**abdelkaderouadah/abdelkaderouadah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+Hi <div id="hello_world" align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU3Zjk0NTBlNDRmZDEzZjY0YTRkNWE4ZGYyYmQ5NmE0YzQ4MWJhNyZjdD1z/BixlM2CB5BJBN3YQVJ/giphy.gif"/></div>, I'm Ouadah Abdelkader
