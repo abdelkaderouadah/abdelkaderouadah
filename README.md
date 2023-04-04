@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/embed/7p2yHUziv0Z0knH7YY" width="100"/>
-</div>
-
-
-
 
 ### Hi there 👋
 
@@ -21,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/7p2yHUziv0Z0knH7YY" width="100"/>
+</div>
